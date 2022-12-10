@@ -1,4 +1,4 @@
-# Clips-Emergency-Call-Expert-System
+# Clips - Emergency Call Expert System
 
 Se trata de un ejemplo sencillo de sistema experto implementado en *CLIPS*. Simula el protocolo a seguir cuando el operador de emergencias recibe una llamada.
 
